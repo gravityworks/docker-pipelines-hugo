@@ -7,6 +7,7 @@ RUN apk add --update --no-cache \
   ca-certificates \
   curl \
   rsync \
+  ssh \
   wget
 
 # Install hugo.
